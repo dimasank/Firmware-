@@ -1,3 +1,4 @@
+//Code for DHT11 and OLED
 #include <SPI.h> 
 #include <Wire.h> 
 #include <Adafruit_GFX.h> 
